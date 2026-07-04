@@ -1,0 +1,926 @@
+{
+  "source": {
+    "site": "CongoBet",
+    "url": "https://www.congobet.net/virtual/category/instant-league/8035/results",
+    "competition": "Instant League",
+    "category": "Instant League",
+    "market": "G/NG (résultat dérivé depuis le score final)",
+    "rule": "Oui si les deux équipes marquent au moins un but, sinon Non.",
+    "timezone": "UTC+00:00"
+  },
+  "metadata": {
+    "scraped_at_utc": "2026-07-04T21:00:13.736504+00:00",
+    "trigger_round_time": "21:00",
+    "trigger_round_at_utc": "2026-07-04T21:00:00+00:00",
+    "show_more_clicks": 1,
+    "rounds_count": 4,
+    "round_labels": [
+      "Journée 37 - Aujourd'hui 20:58",
+      "Journée 36 - Aujourd'hui 20:56",
+      "Journée 35 - Aujourd'hui 20:54",
+      "Journée 34 - Aujourd'hui 20:52"
+    ],
+    "records_count": 40,
+    "deduplication": "unique_key = matchday|home_team|away_team|score"
+  },
+  "matches": [
+    {
+      "unique_key": "37|C. Palace|Wolverhampton|1:1",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "C. Palace",
+      "away_team": "Wolverhampton",
+      "score": "1:1",
+      "home_score": 1,
+      "away_score": 1,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "88'"
+      ],
+      "away_goal_minutes": [
+        "68'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "37|Liverpool|Everton|1:1",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "Liverpool",
+      "away_team": "Everton",
+      "score": "1:1",
+      "home_score": 1,
+      "away_score": 1,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "55'"
+      ],
+      "away_goal_minutes": [
+        "89'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "37|Spurs|Newcastle|4:0",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "Spurs",
+      "away_team": "Newcastle",
+      "score": "4:0",
+      "home_score": 4,
+      "away_score": 0,
+      "halftime_score": "2:0",
+      "home_halftime_score": 2,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "7'",
+        "34'",
+        "50'",
+        "78'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "37|London Blues|Fulham|0:0",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "London Blues",
+      "away_team": "Fulham",
+      "score": "0:0",
+      "home_score": 0,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "37|London Reds|Manchester Red|1:0",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "London Reds",
+      "away_team": "Manchester Red",
+      "score": "1:0",
+      "home_score": 1,
+      "away_score": 0,
+      "halftime_score": "1:0",
+      "home_halftime_score": 1,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "26'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "37|N. Forest|Burnley|2:0",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "N. Forest",
+      "away_team": "Burnley",
+      "score": "2:0",
+      "home_score": 2,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "59'",
+        "85'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "37|Leeds|Brighton|1:3",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "Leeds",
+      "away_team": "Brighton",
+      "score": "1:3",
+      "home_score": 1,
+      "away_score": 3,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "43'"
+      ],
+      "away_goal_minutes": [
+        "39'",
+        "46'",
+        "55'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "37|A. Villa|West Ham|1:0",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "A. Villa",
+      "away_team": "West Ham",
+      "score": "1:0",
+      "home_score": 1,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "75'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "37|Manchester Blue|Brentford|2:2",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "Manchester Blue",
+      "away_team": "Brentford",
+      "score": "2:2",
+      "home_score": 2,
+      "away_score": 2,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "37'",
+        "68'"
+      ],
+      "away_goal_minutes": [
+        "44'",
+        "74'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "37|Sunderland|Bournemouth|1:2",
+      "round_label": "Journée 37 - Aujourd'hui 20:58",
+      "matchday": 37,
+      "round_time": "Aujourd'hui 20:58",
+      "home_team": "Sunderland",
+      "away_team": "Bournemouth",
+      "score": "1:2",
+      "home_score": 1,
+      "away_score": 2,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "41'"
+      ],
+      "away_goal_minutes": [
+        "29'",
+        "72'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|Fulham|Liverpool|2:2",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Fulham",
+      "away_team": "Liverpool",
+      "score": "2:2",
+      "home_score": 2,
+      "away_score": 2,
+      "halftime_score": "0:1",
+      "home_halftime_score": 0,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "61'",
+        "83'"
+      ],
+      "away_goal_minutes": [
+        "28'",
+        "51'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|London Blues|N. Forest|4:2",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "London Blues",
+      "away_team": "N. Forest",
+      "score": "4:2",
+      "home_score": 4,
+      "away_score": 2,
+      "halftime_score": "1:2",
+      "home_halftime_score": 1,
+      "away_halftime_score": 2,
+      "home_goal_minutes": [
+        "42'",
+        "62'",
+        "66'",
+        "85'"
+      ],
+      "away_goal_minutes": [
+        "39'",
+        "42'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|Bournemouth|Manchester Blue|0:4",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Bournemouth",
+      "away_team": "Manchester Blue",
+      "score": "0:4",
+      "home_score": 0,
+      "away_score": 4,
+      "halftime_score": "0:3",
+      "home_halftime_score": 0,
+      "away_halftime_score": 3,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [
+        "23'",
+        "24'",
+        "26'",
+        "63'"
+      ],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "36|West Ham|Leeds|5:0",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "West Ham",
+      "away_team": "Leeds",
+      "score": "5:0",
+      "home_score": 5,
+      "away_score": 0,
+      "halftime_score": "2:0",
+      "home_halftime_score": 2,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "4'",
+        "12'",
+        "48'",
+        "60'",
+        "73'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "36|Brighton|Spurs|2:4",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Brighton",
+      "away_team": "Spurs",
+      "score": "2:4",
+      "home_score": 2,
+      "away_score": 4,
+      "halftime_score": "0:3",
+      "home_halftime_score": 0,
+      "away_halftime_score": 3,
+      "home_goal_minutes": [
+        "56'",
+        "82'"
+      ],
+      "away_goal_minutes": [
+        "37'",
+        "42'",
+        "45'",
+        "54'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|Manchester Red|A. Villa|1:1",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Manchester Red",
+      "away_team": "A. Villa",
+      "score": "1:1",
+      "home_score": 1,
+      "away_score": 1,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "21'"
+      ],
+      "away_goal_minutes": [
+        "22'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|Everton|C. Palace|3:1",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Everton",
+      "away_team": "C. Palace",
+      "score": "3:1",
+      "home_score": 3,
+      "away_score": 1,
+      "halftime_score": "2:0",
+      "home_halftime_score": 2,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "8'",
+        "34'",
+        "53'"
+      ],
+      "away_goal_minutes": [
+        "56'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|Burnley|London Reds|0:4",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Burnley",
+      "away_team": "London Reds",
+      "score": "0:4",
+      "home_score": 0,
+      "away_score": 4,
+      "halftime_score": "0:1",
+      "home_halftime_score": 0,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [
+        "11'",
+        "51'",
+        "53'",
+        "87'"
+      ],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "36|Newcastle|Brentford|2:1",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Newcastle",
+      "away_team": "Brentford",
+      "score": "2:1",
+      "home_score": 2,
+      "away_score": 1,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "2'",
+        "50'"
+      ],
+      "away_goal_minutes": [
+        "22'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "36|Wolverhampton|Sunderland|0:4",
+      "round_label": "Journée 36 - Aujourd'hui 20:56",
+      "matchday": 36,
+      "round_time": "Aujourd'hui 20:56",
+      "home_team": "Wolverhampton",
+      "away_team": "Sunderland",
+      "score": "0:4",
+      "home_score": 0,
+      "away_score": 4,
+      "halftime_score": "0:1",
+      "home_halftime_score": 0,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [
+        "13'",
+        "58'",
+        "67'",
+        "87'"
+      ],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|Manchester Blue|Wolverhampton|5:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Manchester Blue",
+      "away_team": "Wolverhampton",
+      "score": "5:0",
+      "home_score": 5,
+      "away_score": 0,
+      "halftime_score": "2:0",
+      "home_halftime_score": 2,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "32'",
+        "42'",
+        "60'",
+        "76'",
+        "89'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|Newcastle|Bournemouth|2:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Newcastle",
+      "away_team": "Bournemouth",
+      "score": "2:0",
+      "home_score": 2,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "84'",
+        "86'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|Liverpool|London Blues|2:1",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Liverpool",
+      "away_team": "London Blues",
+      "score": "2:1",
+      "home_score": 2,
+      "away_score": 1,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "49'",
+        "49'"
+      ],
+      "away_goal_minutes": [
+        "77'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "35|Brentford|Brighton|1:3",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Brentford",
+      "away_team": "Brighton",
+      "score": "1:3",
+      "home_score": 1,
+      "away_score": 3,
+      "halftime_score": "1:2",
+      "home_halftime_score": 1,
+      "away_halftime_score": 2,
+      "home_goal_minutes": [
+        "38'"
+      ],
+      "away_goal_minutes": [
+        "27'",
+        "37'",
+        "84'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "35|A. Villa|Burnley|3:1",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "A. Villa",
+      "away_team": "Burnley",
+      "score": "3:1",
+      "home_score": 3,
+      "away_score": 1,
+      "halftime_score": "2:0",
+      "home_halftime_score": 2,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "28'",
+        "44'",
+        "49'"
+      ],
+      "away_goal_minutes": [
+        "60'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "35|Leeds|Manchester Red|0:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Leeds",
+      "away_team": "Manchester Red",
+      "score": "0:0",
+      "home_score": 0,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|N. Forest|London Reds|0:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "N. Forest",
+      "away_team": "London Reds",
+      "score": "0:0",
+      "home_score": 0,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|Sunderland|Everton|1:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Sunderland",
+      "away_team": "Everton",
+      "score": "1:0",
+      "home_score": 1,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "57'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|Spurs|West Ham|5:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "Spurs",
+      "away_team": "West Ham",
+      "score": "5:0",
+      "home_score": 5,
+      "away_score": 0,
+      "halftime_score": "3:0",
+      "home_halftime_score": 3,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "27'",
+        "40'",
+        "42'",
+        "52'",
+        "58'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "35|C. Palace|Fulham|2:0",
+      "round_label": "Journée 35 - Aujourd'hui 20:54",
+      "matchday": 35,
+      "round_time": "Aujourd'hui 20:54",
+      "home_team": "C. Palace",
+      "away_team": "Fulham",
+      "score": "2:0",
+      "home_score": 2,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "63'",
+        "75'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "34|Brighton|Bournemouth|2:2",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Brighton",
+      "away_team": "Bournemouth",
+      "score": "2:2",
+      "home_score": 2,
+      "away_score": 2,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "17'",
+        "69'"
+      ],
+      "away_goal_minutes": [
+        "20'",
+        "58'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "34|London Blues|C. Palace|0:0",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "London Blues",
+      "away_team": "C. Palace",
+      "score": "0:0",
+      "home_score": 0,
+      "away_score": 0,
+      "halftime_score": "0:0",
+      "home_halftime_score": 0,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "34|London Reds|A. Villa|3:0",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "London Reds",
+      "away_team": "A. Villa",
+      "score": "3:0",
+      "home_score": 3,
+      "away_score": 0,
+      "halftime_score": "1:0",
+      "home_halftime_score": 1,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "36'",
+        "55'",
+        "88'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "34|West Ham|Brentford|1:2",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "West Ham",
+      "away_team": "Brentford",
+      "score": "1:2",
+      "home_score": 1,
+      "away_score": 2,
+      "halftime_score": "0:1",
+      "home_halftime_score": 0,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "47'"
+      ],
+      "away_goal_minutes": [
+        "34'",
+        "79'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "34|Manchester Red|Spurs|2:3",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Manchester Red",
+      "away_team": "Spurs",
+      "score": "2:3",
+      "home_score": 2,
+      "away_score": 3,
+      "halftime_score": "1:1",
+      "home_halftime_score": 1,
+      "away_halftime_score": 1,
+      "home_goal_minutes": [
+        "22'",
+        "76'"
+      ],
+      "away_goal_minutes": [
+        "12'",
+        "48'",
+        "78'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "34|Wolverhampton|Newcastle|3:0",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Wolverhampton",
+      "away_team": "Newcastle",
+      "score": "3:0",
+      "home_score": 3,
+      "away_score": 0,
+      "halftime_score": "1:0",
+      "home_halftime_score": 1,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "44'",
+        "49'",
+        "86'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "34|Fulham|Sunderland|3:2",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Fulham",
+      "away_team": "Sunderland",
+      "score": "3:2",
+      "home_score": 3,
+      "away_score": 2,
+      "halftime_score": "0:2",
+      "home_halftime_score": 0,
+      "away_halftime_score": 2,
+      "home_goal_minutes": [
+        "60'",
+        "62'",
+        "64'"
+      ],
+      "away_goal_minutes": [
+        "6'",
+        "43'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "34|Liverpool|N. Forest|3:0",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Liverpool",
+      "away_team": "N. Forest",
+      "score": "3:0",
+      "home_score": 3,
+      "away_score": 0,
+      "halftime_score": "2:0",
+      "home_halftime_score": 2,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "3'",
+        "6'",
+        "61'"
+      ],
+      "away_goal_minutes": [],
+      "both_teams_scored": false,
+      "gng_result": "Non"
+    },
+    {
+      "unique_key": "34|Burnley|Leeds|1:1",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Burnley",
+      "away_team": "Leeds",
+      "score": "1:1",
+      "home_score": 1,
+      "away_score": 1,
+      "halftime_score": "1:0",
+      "home_halftime_score": 1,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "38'"
+      ],
+      "away_goal_minutes": [
+        "54'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    },
+    {
+      "unique_key": "34|Everton|Manchester Blue|2:1",
+      "round_label": "Journée 34 - Aujourd'hui 20:52",
+      "matchday": 34,
+      "round_time": "Aujourd'hui 20:52",
+      "home_team": "Everton",
+      "away_team": "Manchester Blue",
+      "score": "2:1",
+      "home_score": 2,
+      "away_score": 1,
+      "halftime_score": "1:0",
+      "home_halftime_score": 1,
+      "away_halftime_score": 0,
+      "home_goal_minutes": [
+        "7'",
+        "74'"
+      ],
+      "away_goal_minutes": [
+        "73'"
+      ],
+      "both_teams_scored": true,
+      "gng_result": "Oui"
+    }
+  ]
+}
