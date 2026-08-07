@@ -1,0 +1,906 @@
+{
+  "source": {
+    "site": "CongoBet",
+    "competition": "Instant League",
+    "url": "https://www.congobet.net/virtual/category/instant-league/8035/matches",
+    "markets": [
+      "1X2",
+      "G/NG"
+    ],
+    "timezone": "UTC+00:00"
+  },
+  "metadata": {
+    "scraped_at_utc": "2026-08-07T12:01:31.186367+00:00",
+    "visible_rounds": [
+      {
+        "index": 0,
+        "round_time": "00:31",
+        "round_at_utc": "2026-08-07T00:31:00+00:00"
+      },
+      {
+        "index": 1,
+        "round_time": "12:03",
+        "round_at_utc": "2026-08-07T12:03:00+00:00"
+      },
+      {
+        "index": 2,
+        "round_time": "12:05",
+        "round_at_utc": "2026-08-07T12:05:00+00:00"
+      },
+      {
+        "index": 3,
+        "round_time": "12:07",
+        "round_at_utc": "2026-08-07T12:07:00+00:00"
+      },
+      {
+        "index": 4,
+        "round_time": "12:12",
+        "round_at_utc": "2026-08-07T12:12:00+00:00"
+      },
+      {
+        "index": 5,
+        "round_time": "12:14",
+        "round_at_utc": "2026-08-07T12:14:00+00:00"
+      },
+      {
+        "index": 6,
+        "round_time": "12:16",
+        "round_at_utc": "2026-08-07T12:16:00+00:00"
+      },
+      {
+        "index": 7,
+        "round_time": "12:18",
+        "round_at_utc": "2026-08-07T12:18:00+00:00"
+      },
+      {
+        "index": 8,
+        "round_time": "12:20",
+        "round_at_utc": "2026-08-07T12:20:00+00:00"
+      },
+      {
+        "index": 9,
+        "round_time": "12:22",
+        "round_at_utc": "2026-08-07T12:22:00+00:00"
+      }
+    ],
+    "saved_rounds": [
+      {
+        "index": 1,
+        "round_time": "12:03",
+        "round_at_utc": "2026-08-07T12:03:00+00:00"
+      },
+      {
+        "index": 2,
+        "round_time": "12:05",
+        "round_at_utc": "2026-08-07T12:05:00+00:00"
+      }
+    ],
+    "first_round_skipped": "00:31",
+    "gap_threshold_minutes": 3,
+    "results_trigger_round_time": "12:07",
+    "results_trigger_at_utc": "2026-08-07T12:07:00+00:00",
+    "next_odds_run_at_utc": "2026-08-07T12:07:00+00:00",
+    "rounds_saved_count": 2,
+    "matches_saved_count": 20
+  },
+  "rounds": [
+    {
+      "round_index": 1,
+      "round_time": "12:03",
+      "matches_count": 10,
+      "matches": [
+        {
+          "unique_key": "12:03|West Ham|A. Villa",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "West Ham",
+            "away": "A. Villa"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,29",
+              "X": "3,56",
+              "2": "2,92"
+            },
+            "G/NG": {
+              "Oui": "1,57",
+              "Non": "2,37"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Spurs|Manchester Red",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Spurs",
+            "away": "Manchester Red"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,77",
+              "X": "4,14",
+              "2": "3,97"
+            },
+            "G/NG": {
+              "Oui": "1,49",
+              "Non": "2,57"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Brighton|Newcastle",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Brighton",
+            "away": "Newcastle"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,31",
+              "X": "3,88",
+              "2": "2,71"
+            },
+            "G/NG": {
+              "Oui": "1,43",
+              "Non": "2,78"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Bournemouth|Sunderland",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Bournemouth",
+            "away": "Sunderland"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,80",
+              "X": "3,72",
+              "2": "4,22"
+            },
+            "G/NG": {
+              "Oui": "1,68",
+              "Non": "2,15"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|N. Forest|Liverpool",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "N. Forest",
+            "away": "Liverpool"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,85",
+              "X": "3,73",
+              "2": "2,27"
+            },
+            "G/NG": {
+              "Oui": "1,49",
+              "Non": "2,56"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Brentford|London Reds",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Brentford",
+            "away": "London Reds"
+          },
+          "markets": {
+            "1X2": {
+              "1": "4,61",
+              "X": "4,22",
+              "2": "1,65"
+            },
+            "G/NG": {
+              "Oui": "1,56",
+              "Non": "2,38"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Manchester Blue|Leeds",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Manchester Blue",
+            "away": "Leeds"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,11",
+              "X": "9,01",
+              "2": "22,22"
+            },
+            "G/NG": {
+              "Oui": "2,54",
+              "Non": "1,50"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|London Blues|Fulham",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "London Blues",
+            "away": "Fulham"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,77",
+              "X": "3,78",
+              "2": "4,31"
+            },
+            "G/NG": {
+              "Oui": "1,67",
+              "Non": "2,17"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Burnley|Everton",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Burnley",
+            "away": "Everton"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,87",
+              "X": "2,97",
+              "2": "2,67"
+            },
+            "G/NG": {
+              "Oui": "1,97",
+              "Non": "1,81"
+            }
+          }
+        },
+        {
+          "unique_key": "12:03|Wolverhampton|C. Palace",
+          "round_index": 1,
+          "round_time": "12:03",
+          "teams": {
+            "home": "Wolverhampton",
+            "away": "C. Palace"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,42",
+              "X": "3,27",
+              "2": "2,93"
+            },
+            "G/NG": {
+              "Oui": "1,73",
+              "Non": "2,08"
+            }
+          }
+        }
+      ],
+      "round_at_utc": "2026-08-07T12:03:00+00:00"
+    },
+    {
+      "round_index": 2,
+      "round_time": "12:05",
+      "matches_count": 10,
+      "matches": [
+        {
+          "unique_key": "12:05|Everton|Manchester Blue",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Everton",
+            "away": "Manchester Blue"
+          },
+          "markets": {
+            "1X2": {
+              "1": "5,37",
+              "X": "3,48",
+              "2": "1,71"
+            },
+            "G/NG": {
+              "Oui": "2,03",
+              "Non": "1,76"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|C. Palace|Brentford",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "C. Palace",
+            "away": "Brentford"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,35",
+              "X": "3,43",
+              "2": "2,91"
+            },
+            "G/NG": {
+              "Oui": "1,64",
+              "Non": "2,23"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|Liverpool|Burnley",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Liverpool",
+            "away": "Burnley"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,16",
+              "X": "7,91",
+              "2": "14,29"
+            },
+            "G/NG": {
+              "Oui": "2,02",
+              "Non": "1,77"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|Manchester Red|Fulham",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Manchester Red",
+            "away": "Fulham"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,92",
+              "X": "3,68",
+              "2": "3,73"
+            },
+            "G/NG": {
+              "Oui": "1,62",
+              "Non": "2,26"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|A. Villa|Brighton",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "A. Villa",
+            "away": "Brighton"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,69",
+              "X": "4,52",
+              "2": "4,05"
+            },
+            "G/NG": {
+              "Oui": "1,41",
+              "Non": "2,87"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|Wolverhampton|West Ham",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Wolverhampton",
+            "away": "West Ham"
+          },
+          "markets": {
+            "1X2": {
+              "1": "2,11",
+              "X": "3,57",
+              "2": "3,28"
+            },
+            "G/NG": {
+              "Oui": "1,60",
+              "Non": "2,29"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|London Reds|N. Forest",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "London Reds",
+            "away": "N. Forest"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,22",
+              "X": "6,67",
+              "2": "11,20"
+            },
+            "G/NG": {
+              "Oui": "1,87",
+              "Non": "1,90"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|Newcastle|Bournemouth",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Newcastle",
+            "away": "Bournemouth"
+          },
+          "markets": {
+            "1X2": {
+              "1": "1,33",
+              "X": "5,64",
+              "2": "7,59"
+            },
+            "G/NG": {
+              "Oui": "1,65",
+              "Non": "2,21"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|Leeds|London Blues",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Leeds",
+            "away": "London Blues"
+          },
+          "markets": {
+            "1X2": {
+              "1": "5,57",
+              "X": "4,33",
+              "2": "1,54"
+            },
+            "G/NG": {
+              "Oui": "1,68",
+              "Non": "2,15"
+            }
+          }
+        },
+        {
+          "unique_key": "12:05|Sunderland|Spurs",
+          "round_index": 2,
+          "round_time": "12:05",
+          "teams": {
+            "home": "Sunderland",
+            "away": "Spurs"
+          },
+          "markets": {
+            "1X2": {
+              "1": "7,92",
+              "X": "5,59",
+              "2": "1,32"
+            },
+            "G/NG": {
+              "Oui": "1,69",
+              "Non": "2,13"
+            }
+          }
+        }
+      ],
+      "round_at_utc": "2026-08-07T12:05:00+00:00"
+    }
+  ],
+  "matches": [
+    {
+      "unique_key": "12:03|West Ham|A. Villa",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "West Ham",
+        "away": "A. Villa"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,29",
+          "X": "3,56",
+          "2": "2,92"
+        },
+        "G/NG": {
+          "Oui": "1,57",
+          "Non": "2,37"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Spurs|Manchester Red",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Spurs",
+        "away": "Manchester Red"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,77",
+          "X": "4,14",
+          "2": "3,97"
+        },
+        "G/NG": {
+          "Oui": "1,49",
+          "Non": "2,57"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Brighton|Newcastle",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Brighton",
+        "away": "Newcastle"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,31",
+          "X": "3,88",
+          "2": "2,71"
+        },
+        "G/NG": {
+          "Oui": "1,43",
+          "Non": "2,78"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Bournemouth|Sunderland",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Bournemouth",
+        "away": "Sunderland"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,80",
+          "X": "3,72",
+          "2": "4,22"
+        },
+        "G/NG": {
+          "Oui": "1,68",
+          "Non": "2,15"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|N. Forest|Liverpool",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "N. Forest",
+        "away": "Liverpool"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,85",
+          "X": "3,73",
+          "2": "2,27"
+        },
+        "G/NG": {
+          "Oui": "1,49",
+          "Non": "2,56"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Brentford|London Reds",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Brentford",
+        "away": "London Reds"
+      },
+      "markets": {
+        "1X2": {
+          "1": "4,61",
+          "X": "4,22",
+          "2": "1,65"
+        },
+        "G/NG": {
+          "Oui": "1,56",
+          "Non": "2,38"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Manchester Blue|Leeds",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Manchester Blue",
+        "away": "Leeds"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,11",
+          "X": "9,01",
+          "2": "22,22"
+        },
+        "G/NG": {
+          "Oui": "2,54",
+          "Non": "1,50"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|London Blues|Fulham",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "London Blues",
+        "away": "Fulham"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,77",
+          "X": "3,78",
+          "2": "4,31"
+        },
+        "G/NG": {
+          "Oui": "1,67",
+          "Non": "2,17"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Burnley|Everton",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Burnley",
+        "away": "Everton"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,87",
+          "X": "2,97",
+          "2": "2,67"
+        },
+        "G/NG": {
+          "Oui": "1,97",
+          "Non": "1,81"
+        }
+      }
+    },
+    {
+      "unique_key": "12:03|Wolverhampton|C. Palace",
+      "round_index": 1,
+      "round_time": "12:03",
+      "teams": {
+        "home": "Wolverhampton",
+        "away": "C. Palace"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,42",
+          "X": "3,27",
+          "2": "2,93"
+        },
+        "G/NG": {
+          "Oui": "1,73",
+          "Non": "2,08"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Everton|Manchester Blue",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Everton",
+        "away": "Manchester Blue"
+      },
+      "markets": {
+        "1X2": {
+          "1": "5,37",
+          "X": "3,48",
+          "2": "1,71"
+        },
+        "G/NG": {
+          "Oui": "2,03",
+          "Non": "1,76"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|C. Palace|Brentford",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "C. Palace",
+        "away": "Brentford"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,35",
+          "X": "3,43",
+          "2": "2,91"
+        },
+        "G/NG": {
+          "Oui": "1,64",
+          "Non": "2,23"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Liverpool|Burnley",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Liverpool",
+        "away": "Burnley"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,16",
+          "X": "7,91",
+          "2": "14,29"
+        },
+        "G/NG": {
+          "Oui": "2,02",
+          "Non": "1,77"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Manchester Red|Fulham",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Manchester Red",
+        "away": "Fulham"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,92",
+          "X": "3,68",
+          "2": "3,73"
+        },
+        "G/NG": {
+          "Oui": "1,62",
+          "Non": "2,26"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|A. Villa|Brighton",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "A. Villa",
+        "away": "Brighton"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,69",
+          "X": "4,52",
+          "2": "4,05"
+        },
+        "G/NG": {
+          "Oui": "1,41",
+          "Non": "2,87"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Wolverhampton|West Ham",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Wolverhampton",
+        "away": "West Ham"
+      },
+      "markets": {
+        "1X2": {
+          "1": "2,11",
+          "X": "3,57",
+          "2": "3,28"
+        },
+        "G/NG": {
+          "Oui": "1,60",
+          "Non": "2,29"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|London Reds|N. Forest",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "London Reds",
+        "away": "N. Forest"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,22",
+          "X": "6,67",
+          "2": "11,20"
+        },
+        "G/NG": {
+          "Oui": "1,87",
+          "Non": "1,90"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Newcastle|Bournemouth",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Newcastle",
+        "away": "Bournemouth"
+      },
+      "markets": {
+        "1X2": {
+          "1": "1,33",
+          "X": "5,64",
+          "2": "7,59"
+        },
+        "G/NG": {
+          "Oui": "1,65",
+          "Non": "2,21"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Leeds|London Blues",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Leeds",
+        "away": "London Blues"
+      },
+      "markets": {
+        "1X2": {
+          "1": "5,57",
+          "X": "4,33",
+          "2": "1,54"
+        },
+        "G/NG": {
+          "Oui": "1,68",
+          "Non": "2,15"
+        }
+      }
+    },
+    {
+      "unique_key": "12:05|Sunderland|Spurs",
+      "round_index": 2,
+      "round_time": "12:05",
+      "teams": {
+        "home": "Sunderland",
+        "away": "Spurs"
+      },
+      "markets": {
+        "1X2": {
+          "1": "7,92",
+          "X": "5,59",
+          "2": "1,32"
+        },
+        "G/NG": {
+          "Oui": "1,69",
+          "Non": "2,13"
+        }
+      }
+    }
+  ]
+}
